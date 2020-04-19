@@ -1,0 +1,112 @@
+[
+  {
+    "customer_id": "C_DE-BW-8904",
+    "customer_type": "consumer",
+    "is_logged_in": "true",
+    "cookie_id": "czv45yhsw@10hdabf**hhhLLde",
+    "card_no": "5565454365787890",
+    "txn_id": "txn-1234567",
+    "txn_amount": "100.09",
+    "merchant_id": "M_DE-BW-54",
+    "merchant_name": "John Traders"
+  },
+  {
+    "customer_id": "C_DE-BW-8984",
+    "customer_type": "consumer",
+    "is_logged_in": "true",
+    "cookie_id": "czv45yhsw@10hdabtr57*gggLLde",
+    "card_no": "5565454365787845",
+    "txn_id": "txn-43534567",
+    "txn_amount": "10110.09",
+    "merchant_id": "M_DE-BW-54",
+    "merchant_name": "John Traders"
+  },
+  {
+    "customer_id": "C_DE-BW-7584",
+    "customer_type": "consumer",
+    "is_logged_in": "true",
+    "cookie_id": "wer4tv5yhsw@1edfsstr57*gggLLde",
+    "card_no": "5222454365787845",
+    "txn_id": "txn-423er4567",
+    "txn_amount": "10.00",
+    "merchant_id": "M_DE-BW-58",
+    "merchant_name": "Top Mobile Repair"
+  },
+  {
+    "customer_id": "C_DE-BW-32342",
+    "customer_type": "consumer",
+    "is_logged_in": "true",
+    "cookie_id": "czv45ywe3457dabtr57*gggLLde",
+    "card_no": "5565453335787845",
+    "txn_id": "txn-432345567",
+    "txn_amount": "12340.09",
+    "merchant_id": "M_DE-BW-678",
+    "merchant_name": "Saturn"
+  },
+  {
+    "customer_id": "C_DE-BW-77884",
+    "customer_type": "consumer",
+    "is_logged_in": "true",
+    "cookie_id": "czv45yhsd34@@#4r57*gggLLde",
+    "card_no": "5565454365721695",
+    "txn_id": "txn-43235667",
+    "txn_amount": "56110.09",
+    "merchant_id": "M_DE-BW-678",
+    "merchant_name": "Saturn"
+  },
+  {
+    "customer_id": "C_DE-BW-895584",
+    "customer_type": "consumer",
+    "is_logged_in": "true",
+    "cookie_id": "czvdf45w@10hdabtr57*gggLLde",
+    "card_no": "5561111365787845",
+    "txn_id": "txn-435342357",
+    "txn_amount": "100.09",
+    "merchant_id": "M_DE-BW-678",
+    "merchant_name": "Saturn"
+  },
+  {
+    "customer_id": "C_DE-BW-1004",
+    "customer_type": "consumer",
+    "is_logged_in": "true",
+    "cookie_id": "dfssdss@10hdabtr57*gggLLde",
+    "card_no": "5565234365787845",
+    "txn_id": "txn-43523e45",
+    "txn_amount": "10.09",
+    "merchant_id": "M_DE-BW-234",
+    "merchant_name": "MK Bakery"
+  },
+  {
+    "customer_id": "",
+    "customer_type": "",
+    "is_logged_in": "",
+    "cookie_id": "dfu768tg@10hdabtr57*gggLLde",
+    "card_no": "55656578365787845",
+    "txn_id": "txn-g67523e45",
+    "txn_amount": "100.09",
+    "merchant_id": "M_DE-BW-567",
+    "merchant_name": "LM Confectionary"
+  },
+  {
+    "customer_id": "",
+    "customer_type": "",
+    "is_logged_in": "",
+    "cookie_id": "dfu768tg@10hdabtr57*gggLLde",
+    "card_no": "55656578365787845",
+    "txn_id": "txn-g67523e45",
+    "txn_amount": "100.09",
+    "merchant_id": "M_DE-BW-567",
+    "merchant_name": "LM Confectionary"
+  },
+  {
+  "customer_id": "",
+  "customer_type": "",
+  "is_logged_in": "",
+  "cookie_id": "dfu768tg@10hdabtr57*gggLLde",
+  "card_no": "55656578365787845",
+  "txn_id": "txn-g67523e45",
+  "txn_amount": "100.09",
+  "merchant_id": "M_DE-BW-567",
+  "merchant_name": "LM Confectionary"
+}
+]

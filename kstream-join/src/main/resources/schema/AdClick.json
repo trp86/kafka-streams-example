@@ -1,0 +1,9 @@
+{
+  "type": "object",
+  "javaType": "types.AdClick",
+  "properties": {
+    "InventoryID": {
+      "type": "string"
+    }
+  }
+}

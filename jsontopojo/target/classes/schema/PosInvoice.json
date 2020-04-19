@@ -1,0 +1,17 @@
+{
+  "type": "object",
+  "javatype": "types.PosInvoice",
+  "extends": {"$ref": "Invoice.json"},
+  "properties": {
+    "StoreID": {"type": "string"},
+    "PosID": {"type": "string"},
+    "CustomerType": {"type": "string"},
+    "DeliveryType": {"type": "number"},
+    "DeliveryAddress": {"type": "array",
+      "items": {
+        "type": "object",
+         "$ref": "DeliveryAddress.json"
+      }
+    }
+  }
+}

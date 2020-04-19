@@ -1,0 +1,9 @@
+/home/trp86/projects/kafka-streams/projects/state-store-kstream/src/main/java/serdes/JsonDeserializer.java
+/home/trp86/projects/kafka-streams/projects/state-store-kstream/src/main/java/types/Notification.java
+/home/trp86/projects/kafka-streams/projects/state-store-kstream/src/main/java/types/InvoiceLineItem.java
+/home/trp86/projects/kafka-streams/projects/state-store-kstream/src/main/java/types/PosInvoice.java
+/home/trp86/projects/kafka-streams/projects/state-store-kstream/src/main/java/configs/AppConfigs.java
+/home/trp86/projects/kafka-streams/projects/state-store-kstream/src/main/java/serdes/JsonSerializer.java
+/home/trp86/projects/kafka-streams/projects/state-store-kstream/src/main/java/types/Invoice.java
+/home/trp86/projects/kafka-streams/projects/state-store-kstream/src/main/java/types/DeliveryAddress.java
+/home/trp86/projects/kafka-streams/projects/state-store-kstream/src/main/java/serdes/AppSerdes.java

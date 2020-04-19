@@ -1,0 +1,2 @@
+kafka-topics.sh --create --zookeeper localhost:2181 --topic payment_confirmation --partitions 3 --replication-factor 3
+kafka-topics.sh --create --zookeeper localhost:2181 --topic payment_request --partitions 3 --replication-factor 3

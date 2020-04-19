@@ -1,0 +1,1 @@
+sh $CONFLUENT_KAFKA_HOME/bin/schema-registry-start $CONFLUENT_KAFKA_HOME/etc/schema-registry/schema-registry.properties

@@ -1,0 +1,14 @@
+0
+12
+streaming-k-table-k01-store-test-changelog 4 0
+stock-tick 4 0
+streaming-k-table-k01-store-test-changelog 1 0
+stock-tick 0 0
+stock-tick 3 0
+streaming-k-table-KT1-STORE-changelog 1 0
+stock-tick 2 0
+streaming-k-table-KT1-STORE-changelog 4 0
+__consumer_offsets 2 0
+stock-tick 1 0
+__consumer_offsets 0 0
+__consumer_offsets 1 0

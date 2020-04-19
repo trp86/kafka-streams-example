@@ -1,0 +1,13 @@
+0
+11
+KStreamJoinDemo-KSTREAM-JOINTHIS-0000000004-store-changelog 1 2
+KStreamJoinDemo-KSTREAM-JOINOTHER-0000000005-store-changelog 1 2
+payment_confirmation 0 0
+payment_request 1 0
+payment_request 0 0
+payment_request 2 0
+payment_confirmation 2 0
+__consumer_offsets 2 0
+__consumer_offsets 0 0
+__consumer_offsets 1 0
+payment_confirmation 1 0

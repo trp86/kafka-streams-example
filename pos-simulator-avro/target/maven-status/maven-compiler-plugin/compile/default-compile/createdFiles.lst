@@ -1,0 +1,15 @@
+types/LineItem$1.class
+types/HadoopRecord$Builder.class
+types/Notification$Builder.class
+types/PosInvoice$Builder.class
+types/PosInvoice$1.class
+types/Notification.class
+types/LineItem$Builder.class
+types/HadoopRecord.class
+types/Notification$1.class
+types/PosInvoice.class
+types/HadoopRecord$1.class
+types/DeliveryAddress$1.class
+types/DeliveryAddress.class
+types/DeliveryAddress$Builder.class
+types/LineItem.class

@@ -1,0 +1,1 @@
+sh $KAFKA_HOME/bin/kafka-console-producer.sh --topic employees --property parse.key=true --property key.separator=":" --broker-list localhost:9092

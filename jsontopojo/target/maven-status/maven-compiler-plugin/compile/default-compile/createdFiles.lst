@@ -1,0 +1,4 @@
+Invoice.class
+DeliveryAddress.class
+PosInvoice.class
+InvoiceLineItem.class

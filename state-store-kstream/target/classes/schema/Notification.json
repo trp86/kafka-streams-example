@@ -1,0 +1,11 @@
+{
+  "type": "object",
+  "javatype": "types.Notification",
+  "properties": {
+    "InvoiceNumber": {"type": "string"},
+    "CustomerCardNo": {"type": "string"},
+    "TotalAmount": {"type": "number"},
+    "EarnedLoyalityPoints": {"type": "number"},
+    "TotalLoyalityPoints": {"type": "number"}
+  }
+}

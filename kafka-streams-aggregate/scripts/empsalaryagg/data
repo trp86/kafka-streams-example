@@ -1,0 +1,5 @@
+101:{"id":101,"name":"John","department":"engineering","salary":9000}
+102:{"id":102,"name":"Mark","department":"engineering","salary":6000}
+103:{"id":103,"name":"Alex","department":"payroll","salary":5000}
+104:{"id":104,"name":"Sam","department":"finance","salary":3000}
+105:{"id":105,"name":"George","department":"account","salary":9000}
